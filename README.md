@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+Hi, I'm Edima and I'm 25 years old in March.
